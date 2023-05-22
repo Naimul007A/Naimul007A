@@ -32,9 +32,9 @@
         <li>Ajax</li>
         <li>PHP</li>
         <li>PHP OOP</li>
-        <li>Wordpress</li>
-        <li>Wordpress Theme customize</li>
-        <li>Wordpress custom Theme Development</li>
+        <li>Laravel</li>
+        <li>Python</li>
+        <li>Flask</li>
     </0l>
 
 <h3 align="left">Languages and Tools:</h3>
