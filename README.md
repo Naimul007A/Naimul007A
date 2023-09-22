@@ -1,5 +1,25 @@
 ![MasterHead](https://soan.netlify.app/assets/images/website-designing.gif)
-<h1 align="center">Hi 👋, I'm Naimul islam</h1>
+<!-- Macos like icons -->
+ <p align="left"><b><pwn>🔴 🟡 🟢</pwn></b></p>
+ <p>
+ <h3 align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+Techh+Jork+here+:)&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=10&size=22" />
+<br>
+</br>
+<!-- Social icons -->
+<p align="center">
+  <a href="https://www.instagram.com/naimul007a/"><img width="26px" alt="instra" title="instra" src="https://img.freepik.com/premium-vector/vinnytsia-ukraine-april-27-2023-popular-social-media-icon-instagram-vector-design_545793-1681.jpg?w=2000"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:mdnaimul2090@gmail.com"><img width="26px" alt="mail" title="mail" src="https://user-images.githubusercontent.com/62848979/210152073-48509526-4f84-4c72-864a-e41496c18ecf.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.facebook.com/naimul.dev/"><img width="26px" alt="facebook" title="facebook" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-clipart-flat-facebook-logo-png-icon-circle-22.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  </p>
+
+
+   </h6>
+   </p> 
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
