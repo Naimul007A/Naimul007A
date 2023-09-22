@@ -48,11 +48,14 @@
         <li>CSS/CSS</li>
         <liBootstrap</li>
         <li>Javascript</li>
-        <li>Jquery</li>
-        <li>Ajax</li>
+        <li>Vue Js</li>
+        <li>Nuxt JS</li>
+         <li>Node Js</li>
+         <li>Express JS</li>
         <li>PHP</li>
         <li>PHP OOP</li>
         <li>Laravel</li>
+         <li>Livewire</li>
         <li>Python</li>
         <li>Flask</li>
     </0l>
