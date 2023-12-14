@@ -9,7 +9,7 @@
 </br>
 <!-- Social icons -->
 <p align="center">
-  <a target="_blank" href="https://www.instagram.com/naimul007a/"><img width="26px" alt="instra" title="instra" src="https://img.freepik.com/premium-vector/vinnytsia-ukraine-april-27-2023-popular-social-media-icon-instagram-vector-design_545793-1681.jpg?w=2000"/></a>
+  <a target="_blank" href="https://www.instagram.com/devnaimul/"><img width="26px" alt="instra" title="instra" src="https://img.freepik.com/premium-vector/vinnytsia-ukraine-april-27-2023-popular-social-media-icon-instagram-vector-design_545793-1681.jpg?w=2000"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:mdnaimul2090@gmail.com"><img width="26px" alt="mail" title="mail" src="https://user-images.githubusercontent.com/62848979/210152073-48509526-4f84-4c72-864a-e41496c18ecf.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
