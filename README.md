@@ -11,9 +11,9 @@
 <p align="center">
   <a href="https://www.instagram.com/naimul007a/" target="_blank"><img width="26px" alt="instra" title="instra" src="https://img.freepik.com/premium-vector/vinnytsia-ukraine-april-27-2023-popular-social-media-icon-instagram-vector-design_545793-1681.jpg?w=2000"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:mdnaimul2090@gmail.com"><img width="26px" alt="mail" title="mail" src="https://user-images.githubusercontent.com/62848979/210152073-48509526-4f84-4c72-864a-e41496c18ecf.png"/></a>
+  <a href="mailto:mdnaimul2090@gmail.com" target="_blank"><img width="26px" alt="mail" title="mail" src="https://user-images.githubusercontent.com/62848979/210152073-48509526-4f84-4c72-864a-e41496c18ecf.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/naimul.dev/"><img width="26px" alt="facebook" title="facebook" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-clipart-flat-facebook-logo-png-icon-circle-22.png"></a>
+  <a href="https://www.facebook.com/naimul.dev/" target="_blank"><img width="26px" alt="facebook" title="facebook" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-clipart-flat-facebook-logo-png-icon-circle-22.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
 
