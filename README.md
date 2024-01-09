@@ -60,7 +60,7 @@
         <li>Flask</li>
     </0l>
 <a href="#">
- <img  src="![image](https://github.com/Naimul007A/Naimul007A/assets/112851392/c94b8e9c-0634-41ce-a6d8-e65fc6bad678)"/>
+![image](https://github.com/Naimul007A/Naimul007A/assets/112851392/75b3be7b-66b7-4551-807d-7d2b1481e5b0)
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
